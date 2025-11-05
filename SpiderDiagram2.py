@@ -469,7 +469,7 @@ def main():
     initialize_session_state()
     
     # Main header
-    st.markdown('<h1 class="main-header">🛢️ Reservoir Characterization QC Dashboard</h1>', unsafe_allow_html=True)
+    st.markdown('<h1 class="main-header">🛢️ Quality Control in Rock Physics and Seismic Inversion</h1>', unsafe_allow_html=True)
     
     # Sidebar for controls
     st.sidebar.header("📊 QC Parameters")
